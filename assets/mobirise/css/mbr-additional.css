@@ -1374,12 +1374,12 @@ body {
 }
 .cid-qIupoQawAe .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-qIupoQawAe .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #ffffff;
 }
 .cid-qIupoQawAe a {
   font-style: normal;
@@ -1463,7 +1463,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qIupoQawAe .dropdown .dropdown-menu {
-  background: #333333;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1759,7 +1759,7 @@ body {
 }
 .cid-qIupoQawAe .nav-link:hover,
 .cid-qIupoQawAe .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #ffffff !important;
 }
 .cid-qIupoRCEWO {
   background-image: url("../../../assets/images/fb-img-1517548886109-1080x1134.jpg");
@@ -1858,11 +1858,12 @@ body {
   color: #232323;
 }
 .cid-qIupTT6qYe {
-  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #232323;
 }
 .cid-qIupTT6qYe .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-qIupTT6qYe .mbr-figure {
   margin: 0 auto;
@@ -2147,7 +2148,6 @@ body {
   width: 100%;
   height: 100%;
   background: #554346;
-  background: linear-gradient(to left, #554346, #45505b) !important;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -2177,7 +2177,6 @@ body {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  background: linear-gradient(to left, #554346, #45505b) !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
